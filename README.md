@@ -19,6 +19,16 @@
 
 - 📫 How to reach me **akhileshwarpandit0024@gmail.com**
 
+![home1](https://github.com/akhilpandit09/Inventory-application/assets/64522940/de4cb9a5-3777-4df3-8e1b-754eb7ae5c4b)
+![home2](https://github.com/akhilpandit09/Inventory-application/assets/64522940/e2e90dae-ed65-4dc5-82a7-47edba0a45ac)
+![home3](https://github.com/akhilpandit09/Inventory-application/assets/64522940/0dc642c8-b6b9-4831-9188-4f2cddb26991)
+![analytics](https://github.com/akhilpandit09/Inventory-application/assets/64522940/32b92933-23da-4f3e-a88a-13812d3d9150)
+![product](https://github.com/akhilpandit09/Inventory-application/assets/64522940/286d7066-eca2-4245-8905-10b234028e7d)
+![product1](https://github.com/akhilpandit09/Inventory-application/assets/64522940/ad917819-f581-4503-bc4a-b4a08796bd38)
+![team](https://github.com/akhilpandit09/Inventory-application/assets/64522940/9de45bcc-f3e7-4598-8922-fdc434f19fac)
+![team1](https://github.com/akhilpandit09/Inventory-application/assets/64522940/907fd099-eff4-4b0e-a41b-a256e835f88e)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_dev_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dev_akhil" height="30" width="40" /></a>
